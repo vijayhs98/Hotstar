@@ -1,0 +1,34 @@
+{
+  "favourites": [
+    {
+      "title": "KGF",
+      "genre": "Action",
+      "language": "Kannada",
+      "rating": "10"
+    },
+    {
+      "title": "Kanthara",
+      "genre": "Suspence",
+      "language": "Kannada",
+      "rating": "9.7"
+    },
+    {
+      "title": "Ugram",
+      "genre": "Action",
+      "language": "Kannada",
+      "rating": "8.9"
+    },
+    {
+      "title": "Bahubali",
+      "genre": "Drama",
+      "language": "Telugu",
+      "rating": "7.6"
+    },
+    {
+      "title": "Dangal",
+      "genre": "Sports",
+      "language": "Hindi",
+      "rating": "6.4"
+    }
+  ]
+}

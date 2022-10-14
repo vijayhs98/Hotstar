@@ -1,0 +1,70 @@
+.navbar{
+  background-color: rgb(15, 41, 87);
+  display: flex;
+  justify-content: space-around;
+  padding: 15px 0px;  
+}
+
+.links a{
+  color: whitesmoke;
+  text-decoration: none;
+  margin: 0px 15px;
+  font-size: 20px;
+}
+
+.links a:hover{
+  color: rgb(241, 188, 188);
+}
+
+.home{
+  background-color: rgb(15, 41, 87);
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.poster img{
+  border-radius: 20px;
+}
+
+.movies_list img{
+  border-radius: 30px;
+  padding: 20px 10px;
+ }
+
+.favs{
+  background-color: rgb(15, 41, 87);
+  color: aliceblue;
+  text-align: center;
+}
+
+.favs h1{
+  font-size: 30px;
+}
+
+.list{
+  background-color: rgb(20, 2, 37);
+}
+
+.list:hover{
+  background-color: rgb(59, 26, 2);
+}
+
+.list h1{
+  font-size: 20px;
+}
+
+.footer{
+  background-color: rgb(34, 50, 77);
+}
+.footer a{
+  text-decoration: none;
+  color: rgb(187, 204, 191);
+  margin: 0px 15px;
+}
+
+.footer p{
+  text-align: center;
+  color: dimgray;
+}
+
+
